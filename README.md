@@ -1,16 +1,5 @@
-# flutter_app
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Мобильное приложение "Список покупок" на Android 6.0 и выше.
+Предназначено для создания списков покупок, редактирования количества, единиц измерения и описания товаров.
+Особенность - визуальное представление степени закупки товаром.
+Данные хранятся в локальном хранилище, подключение к интернету не требуется.
+В дальнейшем планируется добавление функции "Поделиться списком".
